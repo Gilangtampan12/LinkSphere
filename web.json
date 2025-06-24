@@ -1,0 +1,334 @@
+{
+  "websites": [
+    {
+      "name": "Nekos Life",
+      "description": "Website random gambar anime dan GIF.",
+      "url": "https://nekos.life",
+      "category": "Anime"
+    },
+    {
+      "name": "Hentai Haven",
+      "description": "Koleksi anime dewasa dengan berbagai genre.",
+      "url": "https://hentaihaven.xxx",
+      "category": "Hentai"
+    },
+    {
+      "name": "Gelbooru",
+      "description": "Website image board dengan koleksi gambar anime.",
+      "url": "https://gelbooru.com",
+      "category": "Anime"
+    },
+    {
+      "name": "NHentai",
+      "description": "Galeri doujinshi dengan berbagai kategori.",
+      "url": "https://nhentai.net",
+      "category": "Doujin"
+    },
+    {
+      "name": "Pixiv",
+      "description": "Komunitas seniman dan galeri karya seni.",
+      "url": "https://www.pixiv.net",
+      "category": "Anime"
+    },
+    {
+      "name": "HAnime",
+      "description": "Streaming anime dewasa dengan kualitas tinggi.",
+      "url": "https://hanime.tv",
+      "category": "Hentai"
+    },
+    {
+      "name": "MyAnimeList",
+      "description": "Direktori dan komunitas anime terbesar.",
+      "url": "https://myanimelist.net",
+      "category": "Anime"
+    },
+    {
+      "name": "Rule34",
+      "description": "Website image board dengan konten dewasa beragam.",
+      "url": "https://rule34.xxx",
+      "category": "Hentai"
+    },
+    {
+      "name": "Danbooru",
+      "description": "Image board anime dengan banyak tag pencarian.",
+      "url": "https://danbooru.donmai.us",
+      "category": "Anime"
+    },
+    {
+      "name": "8muses",
+      "description": "Website komik dewasa dan galeri gambar.",
+      "url": "https://8muses.xxx",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "Yande.re",
+      "description": "Koleksi gambar anime beresolusi tinggi.",
+      "url": "https://yande.re",
+      "category": "Anime"
+    },
+    {
+      "name": "Pururin",
+      "description": "Koleksi doujinshi dan manga dewasa.",
+      "url": "https://pururin.to",
+      "category": "Doujin"
+    },
+    {
+      "name": "Konachan",
+      "description": "Wallpaper anime berkualitas tinggi.",
+      "url": "https://konachan.com",
+      "category": "Anime"
+    },
+    {
+      "name": "E-Hentai",
+      "description": "Situs galeri manga dan gambar dewasa.",
+      "url": "https://e-hentai.org",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "Safebooru",
+      "description": "Image board anime dengan konten aman dan bersih.",
+      "url": "https://safebooru.org",
+      "category": "Anime"
+    },
+    {
+      "name": "Hentaifox",
+      "description": "Manga hentai yang mudah diakses.",
+      "url": "https://hentaifox.com",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "Zerochan",
+      "description": "Komunitas berbagi gambar anime.",
+      "url": "https://zerochan.net",
+      "category": "Anime"
+    },
+    {
+      "name": "Hitomi",
+      "description": "Website galeri manga hentai lengkap.",
+      "url": "https://hitomi.la",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "DeviantArt",
+      "description": "Platform berbagi karya seni dan ilustrasi.",
+      "url": "https://www.deviantart.com",
+      "category": "Anime"
+    },
+    {
+      "name": "Simply-Hentai",
+      "description": "Situs streaming anime hentai tanpa iklan.",
+      "url": "https://simply-hentai.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "ExHentai",
+      "description": "Galeri dewasa yang hanya bisa diakses member.",
+      "url": "https://exhentai.org",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "Anime-Pictures",
+      "description": "Situs koleksi gambar dan wallpaper anime.",
+      "url": "https://anime-pictures.net",
+      "category": "Anime"
+    },
+    {
+      "name": "Tsumino",
+      "description": "Doujinshi dan manga hentai online.",
+      "url": "https://www.tsumino.com",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "MangaDex",
+      "description": "Situs baca manga online berbagai genre.",
+      "url": "https://mangadex.org",
+      "category": "Anime"
+    },
+    {
+      "name": "Fakku",
+      "description": "Website manga hentai premium.",
+      "url": "https://www.fakku.net",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "LoveHentai",
+      "description": "Streaming anime hentai dengan subtitle.",
+      "url": "https://lovehentai.net",
+      "category": "Hentai"
+    },
+    {
+      "name": "AnimeWallpapers",
+      "description": "Download wallpaper anime gratis.",
+      "url": "https://animewallpapers.com",
+      "category": "Anime"
+    },
+    {
+      "name": "Doujins.com",
+      "description": "Streaming dan download hentai doujinshi.",
+      "url": "https://doujins.com",
+      "category": "Doujin"
+    },
+    {
+      "name": "nHviewer",
+      "description": "Aplikasi web untuk baca NHentai lebih mudah.",
+      "url": "https://nhviewer.com",
+      "category": "Doujin"
+    },
+    {
+      "name": "MioHentai",
+      "description": "Situs streaming hentai update harian.",
+      "url": "https://miohentai.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "Anime Gallery",
+      "description": "Kumpulan gambar dan fanart anime.",
+      "url": "https://animegallery.net",
+      "category": "Anime"
+    },
+    {
+      "name": "HentaiStream",
+      "description": "Streaming anime hentai dengan koleksi besar.",
+      "url": "https://hentaistream.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "ArtStation",
+      "description": "Platform seni profesional dan ilustrasi.",
+      "url": "https://www.artstation.com",
+      "category": "Anime"
+    },
+    {
+      "name": "DoujinHaven",
+      "description": "Doujin hentai dengan terjemahan bahasa Inggris.",
+      "url": "https://doujinhaven.com",
+      "category": "Doujin"
+    },
+    {
+      "name": "Hentai2Read",
+      "description": "Website baca manga hentai gratis.",
+      "url": "https://hentai2read.com",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "Booru",
+      "description": "Image board dengan banyak tag anime.",
+      "url": "https://booru.org",
+      "category": "Anime"
+    },
+    {
+      "name": "PervertedStories",
+      "description": "Situs cerita dewasa dan hentai story.",
+      "url": "https://pervertedstories.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "Luscious",
+      "description": "Situs galeri gambar hentai dan manga.",
+      "url": "https://luscious.net",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "AnimeMoe",
+      "description": "Gambar dan wallpaper anime moe.",
+      "url": "https://anime.moe",
+      "category": "Anime"
+    },
+    {
+      "name": "HentaiFoundry",
+      "description": "Galeri karya seni hentai dan dewasa.",
+      "url": "https://www.hentai-foundry.com",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "MangaHentai.me",
+      "description": "Manga hentai terbaru dan terupdate.",
+      "url": "https://mangahentai.me",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "DoujinDesu",
+      "description": "Doujin hentai bahasa Indonesia.",
+      "url": "https://doujindesu.info",
+      "category": "Doujin"
+    },
+    {
+      "name": "AnimeArt",
+      "description": "Komunitas berbagi gambar anime.",
+      "url": "https://animeart.org",
+      "category": "Anime"
+    },
+    {
+      "name": "HentaiCloud",
+      "description": "Streaming anime hentai ringan dan cepat.",
+      "url": "https://hentaicloud.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "HentaiHeroes",
+      "description": "Game browser hentai populer.",
+      "url": "https://hentaiheroes.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "DoujinCafe",
+      "description": "Doujin hentai terjemahan bahasa Inggris.",
+      "url": "https://doujincafe.com",
+      "category": "Doujin"
+    },
+    {
+      "name": "Hanime1",
+      "description": "Streaming anime hentai terbaru dengan update harian.",
+      "url": "https://hanime1.me",
+      "category": "Hentai"
+    },
+    {
+      "name": "PixHentai",
+      "description": "Koleksi gambar dan komik hentai berkualitas tinggi.",
+      "url": "https://pixhentai.com",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "Hentaigasm",
+      "description": "Streaming anime hentai dengan koleksi besar dan server cepat.",
+      "url": "https://hentaigasm.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "HDoujin",
+      "description": "Doujin hentai berbagai bahasa dengan tampilan sederhana.",
+      "url": "https://hdoujin.net",
+      "category": "Doujin"
+    },
+    {
+      "name": "LoliNeko",
+      "description": "Gambar dan doujin berfokus pada kategori loli dan neko.",
+      "url": "https://lolineko.net",
+      "category": "Doujin"
+    },
+    {
+      "name": "Sukebei Nyaa",
+      "description": "Situs torrent khusus konten dewasa dengan update harian.",
+      "url": "https://sukebei.nyaa.si",
+      "category": "Hentai"
+    },
+    {
+      "name": "HentaiDrive",
+      "description": "Download manga hentai dan doujin dalam format ZIP/PDF.",
+      "url": "https://hentaidrive.com",
+      "category": "Manga Hentai"
+    },
+    {
+      "name": "HanimeCloud",
+      "description": "Streaming hentai dengan server ringan dan bebas iklan.",
+      "url": "https://hanimecloud.com",
+      "category": "Hentai"
+    },
+    {
+      "name": "HentaiMama",
+      "description": "Streaming hentai subtitle Inggris dengan koleksi lengkap.",
+      "url": "https://hentaimama.io",
+      "category": "Hentai"
+    }
+  ]
+}
